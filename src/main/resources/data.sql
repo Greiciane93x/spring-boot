@@ -1,0 +1,1 @@
+INSERT INTO USUARIO  (nome, email, cpf) VALUES  ('jubileu', 'jubileu@test','12312121')
