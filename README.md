@@ -1,5 +1,5 @@
 
-_Projeto feito em Java com Hibernate JPA e Bean Validation _
+Projeto feito em Java com Hibernate JPA e Bean Validation 
 
 # Spring-boot
 * É uma ferramenta que facilita o processo de configuração e publicação de aplicações. <br/> 
