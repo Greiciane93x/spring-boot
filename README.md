@@ -6,7 +6,7 @@
 *Spring-boot*
 * O Spring Boot consiste, ao final, um template pré-configurado para desenvolvimento e execução de aplicações baseadas no Spring. <br/> 
 * Nos ajuda com tarefas de infraestrutura <br/> 
-* Nos permite ter um projeto ter mais organizado <br/> 
+* Nos permite ter um projeto mais organizado <br/> 
 * Facilita levar o projeto para produção, já que é standalone(sem dependências) <br/> 
 * Favorece a convenção sobre a configuração. Configura o projeto de acordo com as convenções que ele adota. <br/> 
 * Já tem um servidor embarcado <br/> 
